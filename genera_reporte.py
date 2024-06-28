@@ -7,6 +7,3 @@ from datetime import datetime, timedelta
 import grafica
 
 grafica.plot_song_by_year()
-
-#pdf = FPDF()
-#pdf.add_page()
